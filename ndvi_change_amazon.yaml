@@ -1,0 +1,8 @@
+description: NDVI change between June 2020 and June 2025 for selected AOI.
+file: ndvi_change_amazon.tif
+max_value: 0.9095886945724487
+min_value: -1.1595178842544556
+normalized: true
+shape: !!python/tuple
+- 11137
+- 11133
